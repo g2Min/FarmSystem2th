@@ -1,4 +1,4 @@
-## FarmSystem 2th
+## 📌FarmSystem 2th
 안녕하세요<br>
 수학과 20학번 이지민입니다.<br>
 웹/앱 분야의 프론트를 맡고있습니다.
